@@ -4,7 +4,7 @@
 
 ## Approach 1: Docker
 
-### <1> If you have not installed docker, run these commands step by step after creating conda-environment:
+### <1> If you have not installed docker, run these commands step by step:
 
 ```shell
 1. yum install -y yum-utils device-mapper-persistent-data lvm2
@@ -20,7 +20,7 @@
 6. docker pull kom4cr0/cuda11.7-pytorch1.13-mamba1.1.1:1.1.1
 ```
 
-### <2>If you have installed docker, just run the 6th command after creating conda-environment:
+### <2>If you have installed docker, just run the 6th command:
 
 ```shell
 docker pull kom4cr0/cuda11.7-pytorch1.13-mamba1.1.1:1.1.1
