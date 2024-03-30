@@ -1,5 +1,6 @@
 <h1 align='center'>Install mamba_ssm & causal_conv1d</h1>
 
+# Two approaches (Docker Installation & Conda Installation)
 ### ___Strongly recommend to create a new conda-environment!!!___
 
 ## Approach 1: Docker
